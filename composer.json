@@ -10,10 +10,10 @@
     "license": "MIT",
     "repositories": [
         {
-            "type" : "path",
-            "url": "../job-shared"
+            "type" : "vcs",
+            "url": "https://github.com/mems92003-arch/job-shared.git"
         }
-    ],
+    ],    
     "require": {
         "php": "^8.3",
         "laravel/framework": "^13.17",
